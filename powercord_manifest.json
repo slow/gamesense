@@ -1,9 +1,9 @@
 {
    "name": "Gamesense",
    "description": "A requested theme based on gamesense's design.",
-   "version": "1.0.0",
+   "version": "2.0",
    "author": "eternal",
-   "theme": "Gamesense.theme.css",
+   "theme": "index.scss",
    "splashTheme": "splash.css",
    "license": "Unlicensed"
 }

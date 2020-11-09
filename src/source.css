@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
-@import url(https://raw.githack.com/slow/dark-discord/main/src/source.css);
+@import url(https://slow.github.io/dark-discord/src/source.css);
+:root, .theme-light, .theme-dark {
+   --title-gradient: linear-gradient(to right, #37b1da 0, #c948cd 50%, #cce335 100%) !important;
+   --tint: #a4b84d !important;
+   --border-color: #333333 !important;
+   --font: Whitney !important;
+}
+
 #app-mount {
    font-family: var(--font) !important;
    left: 6px;
@@ -80,13 +87,12 @@
 }
 
 .container-3baos1, .container-3baos1 .avatar-SmRMf2 {
-   border: 1px solid var(--border-color);
+   border-top: 1px solid var(--border-color);
    border-left: none;
    border-bottom: none;
 }
 
 .container-1giJp5 {
-   border: 1px solid var(--border-color);
    border-left: none;
    border-bottom: none;
 }
