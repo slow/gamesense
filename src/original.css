@@ -67,24 +67,13 @@
    z-index: 50;
 }
 
-.scrollableContainer-2NUZem {
+.scrollableContainer-2NUZem, .theme-dark .root-1gCeng {
    border: 1px solid var(--border-color);
    border-radius: 0;
 }
 
 .guild-1EfMGQ.active .guildInner-3DSoA4 {
    background: var(--tint) !important;
-}
-
-.container-3baos1, .container-3baos1 .avatar-SmRMf2 {
-   border-bottom: none;
-   border-left: none;
-   border-top: 1px solid var(--border-color);
-}
-
-.container-1giJp5 {
-   border-bottom: none;
-   border-left: none;
 }
 
 .privateChannels-1nO12o {
@@ -114,6 +103,11 @@
    width: 71px !important;
 }
 
+.background-1QDuV2, .wrapper-1cBijl, .fieldList-21DyL8, .root-SR8cQa, .recentMentionsPopout-3rCiI6 {
+   border-radius: 0;
+   border: 1px solid var(--border-color);
+}
+
 .searchBar-6Kv8R2 {
    border-bottom: 1px solid var(--border-color) !important;
    height: 47px !important;
@@ -134,4 +128,9 @@
 
 .container-1r6BKw.themed-ANHk51, .clickable-2ap7je .header-2o-2hj {
    border-bottom: 1px solid var(--border-color);
+}
+
+.container-3baos1, .container-3baos1 .avatar-SmRMf2, .container-1giJp5 {
+   border-bottom: none;
+   border-left: none;
 }
