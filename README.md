@@ -11,5 +11,5 @@ A requested theme based on gamesense's design.
 <img src="https://media.wtf/15224951"/>
 
 # Support 
-- eternal#1000
+- eternal#0404
 
