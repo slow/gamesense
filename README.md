@@ -6,9 +6,7 @@ A requested theme based on gamesense's design.
 - Powercord: `git clone https://github.com/slow/gamesense/`
 
 # Preview
-<img src="https://media.wtf/38238250"/>
-<img src="https://media.wtf/11801001"/>
-<img src="https://media.wtf/15224951"/>
+<img src="https://media.wtf/96726920"/>
 
 # Support 
 - eternal#0404
