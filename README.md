@@ -9,5 +9,5 @@ A requested theme based on gamesense's design.
 <img src="https://media.wtf/96726920"/>
 
 # Support 
-- eternal#0404
+- eternal#1000
 
