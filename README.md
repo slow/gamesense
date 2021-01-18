@@ -8,6 +8,4 @@ A requested theme based on gamesense's design.
 # Preview
 <img src="https://media.wtf/96726920"/>
 
-# Support 
-- eternal#1000
 
